@@ -1,0 +1,742 @@
+[
+  {
+    "date": "2026-11-13",
+    "primary": "Asthma",
+    "primaryCode": "NG245",
+    "primaryUrl": "https://www.nice.org.uk/guidance/ng245/chapter/recommendations",
+    "secondary": "Acute asthma",
+    "secondaryCode": "CKS",
+    "secondaryUrl": "https://cks.nice.org.uk/",
+    "target": 30
+  },
+  {
+    "date": "2026-11-14",
+    "primary": "Type 2 diabetes",
+    "primaryCode": "NG28",
+    "primaryUrl": "https://www.nice.org.uk/guidance/ng28/chapter/recommendations",
+    "secondary": "Diabetic foot",
+    "secondaryCode": "NG19",
+    "secondaryUrl": "https://www.nice.org.uk/guidance/ng19/chapter/recommendations",
+    "target": 55
+  },
+  {
+    "date": "2026-11-15",
+    "primary": "Asthma and diabetes recall",
+    "primaryCode": "REVIEW",
+    "primaryUrl": "https://www.rcgp.org.uk/mrcgp-exams/applied-knowledge-test/akt-preparing",
+    "secondary": "ARR RRR NNT statistics",
+    "secondaryCode": "STATS",
+    "secondaryUrl": "https://www.rcgp.org.uk/mrcgp-exams/applied-knowledge-test/akt-preparing",
+    "target": 50
+  },
+  {
+    "date": "2026-11-16",
+    "primary": "Hypertension",
+    "primaryCode": "NG136",
+    "primaryUrl": "https://www.nice.org.uk/guidance/ng136/chapter/recommendations",
+    "secondary": "Lipids and statins",
+    "secondaryCode": "NG238",
+    "secondaryUrl": "https://www.nice.org.uk/guidance/ng238/chapter/recommendations",
+    "target": 45
+  },
+  {
+    "date": "2026-11-17",
+    "primary": "Atrial fibrillation",
+    "primaryCode": "NG196",
+    "primaryUrl": "https://www.nice.org.uk/guidance/ng196/chapter/recommendations",
+    "secondary": "VTE and DOACs",
+    "secondaryCode": "NG158",
+    "secondaryUrl": "https://www.nice.org.uk/guidance/ng158/chapter/recommendations",
+    "target": 45
+  },
+  {
+    "date": "2026-11-18",
+    "primary": "Heart failure",
+    "primaryCode": "NG106",
+    "primaryUrl": "https://www.nice.org.uk/guidance/ng106/chapter/recommendations",
+    "secondary": "Stable angina",
+    "secondaryCode": "CG126",
+    "secondaryUrl": "https://www.nice.org.uk/guidance/cg126/chapter/recommendations",
+    "target": 30
+  },
+  {
+    "date": "2026-11-19",
+    "primary": "COPD",
+    "primaryCode": "NG115",
+    "primaryUrl": "https://www.nice.org.uk/guidance/ng115/chapter/recommendations",
+    "secondary": "Pneumonia",
+    "secondaryCode": "NG250",
+    "secondaryUrl": "https://www.nice.org.uk/guidance/ng250/chapter/recommendations",
+    "target": 30
+  },
+  {
+    "date": "2026-11-20",
+    "primary": "Acute cough",
+    "primaryCode": "NG120",
+    "primaryUrl": "https://www.nice.org.uk/guidance/ng120/chapter/recommendations",
+    "secondary": "Antimicrobial stewardship",
+    "secondaryCode": "NG15",
+    "secondaryUrl": "https://www.nice.org.uk/guidance/ng15/chapter/recommendations",
+    "target": 30
+  },
+  {
+    "date": "2026-11-21",
+    "primary": "Fever in under-5s",
+    "primaryCode": "NG143",
+    "primaryUrl": "https://www.nice.org.uk/guidance/ng143/chapter/recommendations",
+    "secondary": "Bronchiolitis",
+    "secondaryCode": "NG9",
+    "secondaryUrl": "https://www.nice.org.uk/guidance/ng9/chapter/recommendations",
+    "target": 55
+  },
+  {
+    "date": "2026-11-22",
+    "primary": "Childhood sepsis",
+    "primaryCode": "NG254",
+    "primaryUrl": "https://www.nice.org.uk/guidance/ng254/chapter/recommendations",
+    "secondary": "Meningitis",
+    "secondaryCode": "NG240",
+    "secondaryUrl": "https://www.nice.org.uk/guidance/ng240/chapter/recommendations",
+    "target": 50
+  },
+  {
+    "date": "2026-11-23",
+    "primary": "Depression",
+    "primaryCode": "NG222",
+    "primaryUrl": "https://www.nice.org.uk/guidance/ng222/chapter/recommendations",
+    "secondary": "Generalised anxiety",
+    "secondaryCode": "CG113",
+    "secondaryUrl": "https://www.nice.org.uk/guidance/cg113/chapter/recommendations",
+    "target": 45
+  },
+  {
+    "date": "2026-11-24",
+    "primary": "Menopause",
+    "primaryCode": "NG23",
+    "primaryUrl": "https://www.nice.org.uk/guidance/ng23/chapter/recommendations",
+    "secondary": "Heavy menstrual bleeding",
+    "secondaryCode": "NG88",
+    "secondaryUrl": "https://www.nice.org.uk/guidance/ng88/chapter/recommendations",
+    "target": 45
+  },
+  {
+    "date": "2026-11-25",
+    "primary": "Sensitivity and specificity",
+    "primaryCode": "STATS",
+    "primaryUrl": "https://www.rcgp.org.uk/mrcgp-exams/applied-knowledge-test/akt-preparing",
+    "secondary": "PPV and NPV",
+    "secondaryCode": "STATS",
+    "secondaryUrl": "https://www.rcgp.org.uk/mrcgp-exams/applied-knowledge-test/akt-preparing",
+    "target": 35
+  },
+  {
+    "date": "2026-11-26",
+    "primary": "Combined contraception and UKMEC",
+    "primaryCode": "FSRH",
+    "primaryUrl": "https://www.fsrh.org/",
+    "secondary": "Emergency contraception",
+    "secondaryCode": "FSRH",
+    "secondaryUrl": "https://www.fsrh.org/",
+    "target": 30
+  },
+  {
+    "date": "2026-11-27",
+    "primary": "Early pregnancy bleeding",
+    "primaryCode": "NG126",
+    "primaryUrl": "https://www.nice.org.uk/guidance/ng126/chapter/recommendations",
+    "secondary": "Gestational diabetes",
+    "secondaryCode": "NG3",
+    "secondaryUrl": "https://www.nice.org.uk/guidance/ng3/chapter/recommendations",
+    "target": 30
+  },
+  {
+    "date": "2026-11-28",
+    "primary": "Stroke and TIA",
+    "primaryCode": "NG128",
+    "primaryUrl": "https://www.nice.org.uk/guidance/ng128/chapter/recommendations",
+    "secondary": "Migraine",
+    "secondaryCode": "CG150",
+    "secondaryUrl": "https://www.nice.org.uk/guidance/cg150/chapter/recommendations",
+    "target": 55
+  },
+  {
+    "date": "2026-11-29",
+    "primary": "Two-week consolidation",
+    "primaryCode": "REVIEW",
+    "primaryUrl": "https://www.rcgp.org.uk/mrcgp-exams/applied-knowledge-test/akt-preparing",
+    "secondary": "Prescribing interactions",
+    "secondaryCode": "BNF",
+    "secondaryUrl": "https://bnf.nice.org.uk/",
+    "target": 55
+  },
+  {
+    "date": "2026-11-30",
+    "primary": "Dyspepsia",
+    "primaryCode": "CG184",
+    "primaryUrl": "https://www.nice.org.uk/guidance/cg184/chapter/recommendations",
+    "secondary": "H. pylori",
+    "secondaryCode": "CKS",
+    "secondaryUrl": "https://cks.nice.org.uk/",
+    "target": 45
+  },
+  {
+    "date": "2026-12-01",
+    "primary": "Irritable bowel syndrome",
+    "primaryCode": "CG61",
+    "primaryUrl": "https://www.nice.org.uk/guidance/cg61/chapter/recommendations",
+    "secondary": "Coeliac disease",
+    "secondaryCode": "NG20",
+    "secondaryUrl": "https://www.nice.org.uk/guidance/ng20/chapter/recommendations",
+    "target": 45
+  },
+  {
+    "date": "2026-12-02",
+    "primary": "Ulcerative colitis",
+    "primaryCode": "NG130",
+    "primaryUrl": "https://www.nice.org.uk/guidance/ng130/chapter/recommendations",
+    "secondary": "Crohn's disease",
+    "secondaryCode": "NG129",
+    "secondaryUrl": "https://www.nice.org.uk/guidance/ng129/chapter/recommendations",
+    "target": 30
+  },
+  {
+    "date": "2026-12-03",
+    "primary": "Suspected cancer",
+    "primaryCode": "NG12",
+    "primaryUrl": "https://www.nice.org.uk/guidance/ng12/chapter/recommendations",
+    "secondary": "Breast and colorectal red flags",
+    "secondaryCode": "NG12",
+    "secondaryUrl": "https://www.nice.org.uk/guidance/ng12/chapter/recommendations",
+    "target": 30
+  },
+  {
+    "date": "2026-12-04",
+    "primary": "Constipation",
+    "primaryCode": "CKS",
+    "primaryUrl": "https://cks.nice.org.uk/",
+    "secondary": "Acute and chronic diarrhoea",
+    "secondaryCode": "CKS",
+    "secondaryUrl": "https://cks.nice.org.uk/",
+    "target": 30
+  },
+  {
+    "date": "2026-12-05",
+    "primary": "Thyroid disorders",
+    "primaryCode": "NG145",
+    "primaryUrl": "https://www.nice.org.uk/guidance/ng145/chapter/recommendations",
+    "secondary": "Adrenal insufficiency",
+    "secondaryCode": "NG243",
+    "secondaryUrl": "https://www.nice.org.uk/guidance/ng243/chapter/recommendations",
+    "target": 55
+  },
+  {
+    "date": "2026-12-06",
+    "primary": "Research study designs",
+    "primaryCode": "STATS",
+    "primaryUrl": "https://www.rcgp.org.uk/mrcgp-exams/applied-knowledge-test/akt-preparing",
+    "secondary": "Bias and confounding",
+    "secondaryCode": "STATS",
+    "secondaryUrl": "https://www.rcgp.org.uk/mrcgp-exams/applied-knowledge-test/akt-preparing",
+    "target": 50
+  },
+  {
+    "date": "2026-12-07",
+    "primary": "Chronic kidney disease",
+    "primaryCode": "NG203",
+    "primaryUrl": "https://www.nice.org.uk/guidance/ng203/chapter/recommendations",
+    "secondary": "Acute kidney injury",
+    "secondaryCode": "NG148",
+    "secondaryUrl": "https://www.nice.org.uk/guidance/ng148/chapter/recommendations",
+    "target": 45
+  },
+  {
+    "date": "2026-12-08",
+    "primary": "Lower urinary tract infection",
+    "primaryCode": "NG109",
+    "primaryUrl": "https://www.nice.org.uk/guidance/ng109/chapter/recommendations",
+    "secondary": "Pyelonephritis",
+    "secondaryCode": "NG111",
+    "secondaryUrl": "https://www.nice.org.uk/guidance/ng111/chapter/recommendations",
+    "target": 45
+  },
+  {
+    "date": "2026-12-09",
+    "primary": "Diabetes complications",
+    "primaryCode": "NG19",
+    "primaryUrl": "https://www.nice.org.uk/guidance/ng19/chapter/recommendations",
+    "secondary": "Obesity",
+    "secondaryCode": "NG246",
+    "secondaryUrl": "https://www.nice.org.uk/guidance/ng246/chapter/recommendations",
+    "target": 30
+  },
+  {
+    "date": "2026-12-10",
+    "primary": "Acute coronary syndrome",
+    "primaryCode": "NG185",
+    "primaryUrl": "https://www.nice.org.uk/guidance/ng185/chapter/recommendations",
+    "secondary": "Peripheral arterial disease",
+    "secondaryCode": "CG147",
+    "secondaryUrl": "https://www.nice.org.uk/guidance/cg147/chapter/recommendations",
+    "target": 30
+  },
+  {
+    "date": "2026-12-11",
+    "primary": "Low back pain",
+    "primaryCode": "NG59",
+    "primaryUrl": "https://www.nice.org.uk/guidance/ng59/chapter/recommendations",
+    "secondary": "Chronic primary pain",
+    "secondaryCode": "NG193",
+    "secondaryUrl": "https://www.nice.org.uk/guidance/ng193/chapter/recommendations",
+    "target": 30
+  },
+  {
+    "date": "2026-12-12",
+    "primary": "Childhood limp",
+    "primaryCode": "CKS",
+    "primaryUrl": "https://cks.nice.org.uk/",
+    "secondary": "Septic arthritis",
+    "secondaryCode": "CKS",
+    "secondaryUrl": "https://cks.nice.org.uk/",
+    "target": 55
+  },
+  {
+    "date": "2026-12-13",
+    "primary": "Mixed consolidation",
+    "primaryCode": "REVIEW",
+    "primaryUrl": "https://www.rcgp.org.uk/mrcgp-exams/applied-knowledge-test/akt-preparing",
+    "secondary": "Statistics calculations",
+    "secondaryCode": "STATS",
+    "secondaryUrl": "https://www.rcgp.org.uk/mrcgp-exams/applied-knowledge-test/akt-preparing",
+    "target": 55
+  },
+  {
+    "date": "2026-12-14",
+    "primary": "Rheumatoid arthritis",
+    "primaryCode": "NG100",
+    "primaryUrl": "https://www.nice.org.uk/guidance/ng100/chapter/recommendations",
+    "secondary": "PMR and giant cell arteritis",
+    "secondaryCode": "CKS",
+    "secondaryUrl": "https://cks.nice.org.uk/",
+    "target": 45
+  },
+  {
+    "date": "2026-12-15",
+    "primary": "Osteoarthritis",
+    "primaryCode": "NG226",
+    "primaryUrl": "https://www.nice.org.uk/guidance/ng226/chapter/recommendations",
+    "secondary": "Gout",
+    "secondaryCode": "NG219",
+    "secondaryUrl": "https://www.nice.org.uk/guidance/ng219/chapter/recommendations",
+    "target": 45
+  },
+  {
+    "date": "2026-12-16",
+    "primary": "Atopic eczema",
+    "primaryCode": "CG57",
+    "primaryUrl": "https://www.nice.org.uk/guidance/cg57/chapter/recommendations",
+    "secondary": "Impetigo",
+    "secondaryCode": "NG153",
+    "secondaryUrl": "https://www.nice.org.uk/guidance/ng153/chapter/recommendations",
+    "target": 30
+  },
+  {
+    "date": "2026-12-17",
+    "primary": "Psoriasis",
+    "primaryCode": "CG153",
+    "primaryUrl": "https://www.nice.org.uk/guidance/cg153/chapter/recommendations",
+    "secondary": "Acne",
+    "secondaryCode": "NG198",
+    "secondaryUrl": "https://www.nice.org.uk/guidance/ng198/chapter/recommendations",
+    "target": 30
+  },
+  {
+    "date": "2026-12-18",
+    "primary": "Shingles",
+    "primaryCode": "CKS",
+    "primaryUrl": "https://cks.nice.org.uk/",
+    "secondary": "Urticaria and angioedema",
+    "secondaryCode": "CKS",
+    "secondaryUrl": "https://cks.nice.org.uk/",
+    "target": 30
+  },
+  {
+    "date": "2026-12-19",
+    "primary": "Epilepsy",
+    "primaryCode": "NG217",
+    "primaryUrl": "https://www.nice.org.uk/guidance/ng217/chapter/recommendations",
+    "secondary": "Cranial nerve disorders",
+    "secondaryCode": "NG127",
+    "secondaryUrl": "https://www.nice.org.uk/guidance/ng127/chapter/recommendations",
+    "target": 55
+  },
+  {
+    "date": "2026-12-20",
+    "primary": "Full timed mock 1",
+    "primaryCode": "MOCK",
+    "primaryUrl": "https://www.rcgp.org.uk/mrcgp-exams/applied-knowledge-test/akt-preparing",
+    "secondary": "Initial answer review",
+    "secondaryCode": "REVIEW",
+    "secondaryUrl": "https://www.rcgp.org.uk/mrcgp-exams/applied-knowledge-test/akt-preparing",
+    "target": 160
+  },
+  {
+    "date": "2026-12-21",
+    "primary": "Mock error review",
+    "primaryCode": "REVIEW",
+    "primaryUrl": "https://www.rcgp.org.uk/mrcgp-exams/applied-knowledge-test/akt-preparing",
+    "secondary": "GMC confidentiality",
+    "secondaryCode": "GMC",
+    "secondaryUrl": "https://www.gmc-uk.org/professional-standards",
+    "target": 25
+  },
+  {
+    "date": "2026-12-22",
+    "primary": "Otitis media",
+    "primaryCode": "NG91",
+    "primaryUrl": "https://www.nice.org.uk/guidance/ng91/chapter/recommendations",
+    "secondary": "Sore throat",
+    "secondaryCode": "NG84",
+    "secondaryUrl": "https://www.nice.org.uk/guidance/ng84/chapter/recommendations",
+    "target": 45
+  },
+  {
+    "date": "2026-12-23",
+    "primary": "BPPV and vertigo",
+    "primaryCode": "CKS",
+    "primaryUrl": "https://cks.nice.org.uk/",
+    "secondary": "Hearing loss",
+    "secondaryCode": "NG98",
+    "secondaryUrl": "https://www.nice.org.uk/guidance/ng98/chapter/recommendations",
+    "target": 30
+  },
+  {
+    "date": "2026-12-24",
+    "primary": "Mental Capacity Act",
+    "primaryCode": "GOV",
+    "primaryUrl": "https://www.gov.uk/",
+    "secondary": "GMC consent",
+    "secondaryCode": "GMC",
+    "secondaryUrl": "https://www.gmc-uk.org/professional-standards",
+    "target": 30
+  },
+  {
+    "date": "2026-12-25",
+    "primary": "Red eye emergencies",
+    "primaryCode": "RCGP",
+    "primaryUrl": "https://www.rcgp.org.uk/mrcgp-exams/gp-curriculum/super-condensed-guides",
+    "secondary": "Glaucoma",
+    "secondaryCode": "NG81",
+    "secondaryUrl": "https://www.nice.org.uk/guidance/ng81/chapter/recommendations",
+    "target": 30
+  },
+  {
+    "date": "2026-12-26",
+    "primary": "Age-related macular degeneration",
+    "primaryCode": "NG82",
+    "primaryUrl": "https://www.nice.org.uk/guidance/ng82/chapter/recommendations",
+    "secondary": "Cataracts",
+    "secondaryCode": "NG77",
+    "secondaryUrl": "https://www.nice.org.uk/guidance/ng77/chapter/recommendations",
+    "target": 55
+  },
+  {
+    "date": "2026-12-27",
+    "primary": "ENT and eye consolidation",
+    "primaryCode": "REVIEW",
+    "primaryUrl": "https://www.rcgp.org.uk/mrcgp-exams/applied-knowledge-test/akt-preparing",
+    "secondary": "BNF interactions",
+    "secondaryCode": "BNF",
+    "secondaryUrl": "https://bnf.nice.org.uk/",
+    "target": 55
+  },
+  {
+    "date": "2026-12-28",
+    "primary": "Paediatric UTI",
+    "primaryCode": "NG224",
+    "primaryUrl": "https://www.nice.org.uk/guidance/ng224/chapter/recommendations",
+    "secondary": "Paediatric constipation",
+    "secondaryCode": "CG99",
+    "secondaryUrl": "https://www.nice.org.uk/guidance/cg99/chapter/recommendations",
+    "target": 45
+  },
+  {
+    "date": "2026-12-29",
+    "primary": "Hypertension in pregnancy",
+    "primaryCode": "NG133",
+    "primaryUrl": "https://www.nice.org.uk/guidance/ng133/chapter/recommendations",
+    "secondary": "Antenatal care",
+    "secondaryCode": "NG201",
+    "secondaryUrl": "https://www.nice.org.uk/guidance/ng201/chapter/recommendations",
+    "target": 45
+  },
+  {
+    "date": "2026-12-30",
+    "primary": "Iron-deficiency anaemia",
+    "primaryCode": "CKS",
+    "primaryUrl": "https://cks.nice.org.uk/",
+    "secondary": "B12 and folate deficiency",
+    "secondaryCode": "CKS",
+    "secondaryUrl": "https://cks.nice.org.uk/",
+    "target": 30
+  },
+  {
+    "date": "2026-12-31",
+    "primary": "Syncope and ECGs",
+    "primaryCode": "CG109",
+    "primaryUrl": "https://www.nice.org.uk/guidance/cg109/chapter/recommendations",
+    "secondary": "Confidence intervals",
+    "secondaryCode": "STATS",
+    "secondaryUrl": "https://www.rcgp.org.uk/mrcgp-exams/applied-knowledge-test/akt-preparing",
+    "target": 30
+  },
+  {
+    "date": "2027-01-01",
+    "primary": "Adult sepsis",
+    "primaryCode": "NG253",
+    "primaryUrl": "https://www.nice.org.uk/guidance/ng253/chapter/recommendations",
+    "secondary": "Anaphylaxis",
+    "secondaryCode": "CG134",
+    "secondaryUrl": "https://www.nice.org.uk/guidance/cg134/chapter/recommendations",
+    "target": 30
+  },
+  {
+    "date": "2027-01-02",
+    "primary": "Self-harm",
+    "primaryCode": "NG225",
+    "primaryUrl": "https://www.nice.org.uk/guidance/ng225/chapter/recommendations",
+    "secondary": "Bipolar disorder",
+    "secondaryCode": "CG185",
+    "secondaryUrl": "https://www.nice.org.uk/guidance/cg185/chapter/recommendations",
+    "target": 55
+  },
+  {
+    "date": "2027-01-03",
+    "primary": "Full timed mock 2",
+    "primaryCode": "MOCK",
+    "primaryUrl": "https://www.rcgp.org.uk/mrcgp-exams/applied-knowledge-test/akt-preparing",
+    "secondary": "Initial answer review",
+    "secondaryCode": "REVIEW",
+    "secondaryUrl": "https://www.rcgp.org.uk/mrcgp-exams/applied-knowledge-test/akt-preparing",
+    "target": 160
+  },
+  {
+    "date": "2027-01-04",
+    "primary": "Mock error review",
+    "primaryCode": "REVIEW",
+    "primaryUrl": "https://www.rcgp.org.uk/mrcgp-exams/applied-knowledge-test/akt-preparing",
+    "secondary": "ADHD",
+    "secondaryCode": "NG87",
+    "secondaryUrl": "https://www.nice.org.uk/guidance/ng87/chapter/recommendations",
+    "target": 40
+  },
+  {
+    "date": "2027-01-05",
+    "primary": "Male lower urinary tract symptoms",
+    "primaryCode": "CG97",
+    "primaryUrl": "https://www.nice.org.uk/guidance/cg97/chapter/recommendations",
+    "secondary": "Prostate and testicular cancer",
+    "secondaryCode": "NG12",
+    "secondaryUrl": "https://www.nice.org.uk/guidance/ng12/chapter/recommendations",
+    "target": 45
+  },
+  {
+    "date": "2027-01-06",
+    "primary": "Parkinson's disease",
+    "primaryCode": "NG71",
+    "primaryUrl": "https://www.nice.org.uk/guidance/ng71/chapter/recommendations",
+    "secondary": "Multiple sclerosis",
+    "secondaryCode": "NG220",
+    "secondaryUrl": "https://www.nice.org.uk/guidance/ng220/chapter/recommendations",
+    "target": 30
+  },
+  {
+    "date": "2027-01-07",
+    "primary": "Shoulder pain",
+    "primaryCode": "CKS",
+    "primaryUrl": "https://cks.nice.org.uk/",
+    "secondary": "Carpal tunnel syndrome",
+    "secondaryCode": "CKS",
+    "secondaryUrl": "https://cks.nice.org.uk/",
+    "target": 30
+  },
+  {
+    "date": "2027-01-08",
+    "primary": "VTE and DOAC revision",
+    "primaryCode": "NG158",
+    "primaryUrl": "https://www.nice.org.uk/guidance/ng158/chapter/recommendations",
+    "secondary": "Drug calculations",
+    "secondaryCode": "BNF",
+    "secondaryUrl": "https://bnf.nice.org.uk/",
+    "target": 30
+  },
+  {
+    "date": "2027-01-09",
+    "primary": "Immunisation schedule",
+    "primaryCode": "GREEN",
+    "primaryUrl": "https://www.gov.uk/government/collections/immunisation-against-infectious-disease-the-green-book",
+    "secondary": "Cervical screening",
+    "secondaryCode": "GOV",
+    "secondaryUrl": "https://www.gov.uk/",
+    "target": 55
+  },
+  {
+    "date": "2027-01-10",
+    "primary": "Statistics timed practice",
+    "primaryCode": "STATS",
+    "primaryUrl": "https://www.rcgp.org.uk/mrcgp-exams/applied-knowledge-test/akt-preparing",
+    "secondary": "GP administration",
+    "secondaryCode": "RCGP",
+    "secondaryUrl": "https://www.rcgp.org.uk/mrcgp-exams/gp-curriculum/super-condensed-guides",
+    "target": 60
+  },
+  {
+    "date": "2027-01-11",
+    "primary": "Endometriosis",
+    "primaryCode": "NG73",
+    "primaryUrl": "https://www.nice.org.uk/guidance/ng73/chapter/recommendations",
+    "secondary": "PCOS",
+    "secondaryCode": "CKS",
+    "secondaryUrl": "https://cks.nice.org.uk/",
+    "target": 45
+  },
+  {
+    "date": "2027-01-12",
+    "primary": "HIV testing",
+    "primaryCode": "NG60",
+    "primaryUrl": "https://www.nice.org.uk/guidance/ng60/chapter/recommendations",
+    "secondary": "Genital herpes and PID",
+    "secondaryCode": "BASHH",
+    "secondaryUrl": "https://www.bashh.org/",
+    "target": 45
+  },
+  {
+    "date": "2027-01-13",
+    "primary": "Fitness to drive",
+    "primaryCode": "DVLA",
+    "primaryUrl": "https://www.gov.uk/guidance/assessing-fitness-to-drive-a-guide-for-medical-professionals",
+    "secondary": "Death certification",
+    "secondaryCode": "GOV",
+    "secondaryUrl": "https://www.gov.uk/",
+    "target": 30
+  },
+  {
+    "date": "2027-01-14",
+    "primary": "Safeguarding",
+    "primaryCode": "RCGP",
+    "primaryUrl": "https://www.rcgp.org.uk/mrcgp-exams/gp-curriculum/super-condensed-guides",
+    "secondary": "Autism and learning disability",
+    "secondaryCode": "RCGP",
+    "secondaryUrl": "https://www.rcgp.org.uk/mrcgp-exams/gp-curriculum/super-condensed-guides",
+    "target": 30
+  },
+  {
+    "date": "2027-01-15",
+    "primary": "End-of-life care",
+    "primaryCode": "NG31",
+    "primaryUrl": "https://www.nice.org.uk/guidance/ng31/chapter/recommendations",
+    "secondary": "Frailty and multimorbidity",
+    "secondaryCode": "NG56",
+    "secondaryUrl": "https://www.nice.org.uk/guidance/ng56/chapter/recommendations",
+    "target": 30
+  },
+  {
+    "date": "2027-01-16",
+    "primary": "Full timed mock 3",
+    "primaryCode": "MOCK",
+    "primaryUrl": "https://www.rcgp.org.uk/mrcgp-exams/applied-knowledge-test/akt-preparing",
+    "secondary": "Initial answer review",
+    "secondaryCode": "REVIEW",
+    "secondaryUrl": "https://www.rcgp.org.uk/mrcgp-exams/applied-knowledge-test/akt-preparing",
+    "target": 160
+  },
+  {
+    "date": "2027-01-17",
+    "primary": "Full mock analysis",
+    "primaryCode": "REVIEW",
+    "primaryUrl": "https://www.rcgp.org.uk/mrcgp-exams/applied-knowledge-test/akt-preparing",
+    "secondary": "Two weakest topics",
+    "secondaryCode": "REVIEW",
+    "secondaryUrl": "https://www.rcgp.org.uk/mrcgp-exams/applied-knowledge-test/akt-preparing",
+    "target": 40
+  },
+  {
+    "date": "2027-01-18",
+    "primary": "Statistics comprehensive revision",
+    "primaryCode": "STATS",
+    "primaryUrl": "https://www.rcgp.org.uk/mrcgp-exams/applied-knowledge-test/akt-preparing",
+    "secondary": "Screening risk",
+    "secondaryCode": "STATS",
+    "secondaryUrl": "https://www.rcgp.org.uk/mrcgp-exams/applied-knowledge-test/akt-preparing",
+    "target": 40
+  },
+  {
+    "date": "2027-01-19",
+    "primary": "GP organisation and QOF",
+    "primaryCode": "GOV",
+    "primaryUrl": "https://www.gov.uk/",
+    "secondary": "Confidentiality",
+    "secondaryCode": "GMC",
+    "secondaryUrl": "https://www.gmc-uk.org/professional-standards",
+    "target": 50
+  },
+  {
+    "date": "2027-01-20",
+    "primary": "BNF prescribing safety",
+    "primaryCode": "BNF",
+    "primaryUrl": "https://bnf.nice.org.uk/",
+    "secondary": "Drug allergies",
+    "secondaryCode": "CG183",
+    "secondaryUrl": "https://www.nice.org.uk/guidance/cg183/chapter/recommendations",
+    "target": 40
+  },
+  {
+    "date": "2027-01-21",
+    "primary": "Cancer referral thresholds",
+    "primaryCode": "NG12",
+    "primaryUrl": "https://www.nice.org.uk/guidance/ng12/chapter/recommendations",
+    "secondary": "Neuro and paediatric red flags",
+    "secondaryCode": "NG127",
+    "secondaryUrl": "https://www.nice.org.uk/guidance/ng127/chapter/recommendations",
+    "target": 40
+  },
+  {
+    "date": "2027-01-22",
+    "primary": "Cardiovascular and endocrine recap",
+    "primaryCode": "REVIEW",
+    "primaryUrl": "https://www.rcgp.org.uk/mrcgp-exams/applied-knowledge-test/akt-preparing",
+    "secondary": "Respiratory recap",
+    "secondaryCode": "REVIEW",
+    "secondaryUrl": "https://www.rcgp.org.uk/mrcgp-exams/applied-knowledge-test/akt-preparing",
+    "target": 40
+  },
+  {
+    "date": "2027-01-23",
+    "primary": "100-question timed simulation",
+    "primaryCode": "MOCK",
+    "primaryUrl": "https://www.rcgp.org.uk/mrcgp-exams/applied-knowledge-test/akt-preparing",
+    "secondary": "Error review",
+    "secondaryCode": "REVIEW",
+    "secondaryUrl": "https://www.rcgp.org.uk/mrcgp-exams/applied-knowledge-test/akt-preparing",
+    "target": 100
+  },
+  {
+    "date": "2027-01-24",
+    "primary": "Statistics and administration final check",
+    "primaryCode": "REVIEW",
+    "primaryUrl": "https://www.rcgp.org.uk/mrcgp-exams/applied-knowledge-test/akt-preparing",
+    "secondary": "Top recurring errors",
+    "secondaryCode": "REVIEW",
+    "secondaryUrl": "https://www.rcgp.org.uk/mrcgp-exams/applied-knowledge-test/akt-preparing",
+    "target": 35
+  },
+  {
+    "date": "2027-01-25",
+    "primary": "Light recall only",
+    "primaryCode": "REVIEW",
+    "primaryUrl": "https://www.rcgp.org.uk/mrcgp-exams/applied-knowledge-test/akt-preparing",
+    "secondary": "Exam logistics and rest",
+    "secondaryCode": "REVIEW",
+    "secondaryUrl": "https://www.rcgp.org.uk/mrcgp-exams/applied-knowledge-test/akt-preparing",
+    "target": 15
+  }
+]
